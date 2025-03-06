@@ -35,7 +35,7 @@ namespace modul3_1302204032
 
         private void button18_Click(object sender, EventArgs e)
         {
-            
+             
         }
 
         private void button2_Click(object sender, EventArgs e)
@@ -75,7 +75,7 @@ namespace modul3_1302204032
 
         private void button14_Click(object sender, EventArgs e)
         {
-            label2.Text += "+";
+            label2.Text += "+ ";
         }
 
         private void label2_Click(object sender, EventArgs e)
